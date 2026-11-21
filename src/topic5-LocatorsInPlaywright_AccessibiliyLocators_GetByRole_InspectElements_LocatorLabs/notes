@@ -1,0 +1,17 @@
+1. xpath/css: last choice: dependent of attributes: id, name , tag, class: flaky
+--- page locators
+
+2. Accessibility Role/Semantic Based locators: 1st choice
+
+Accessibility means what ever visible on the page not on DOM:
+# getBy methods:
+
+# 1. getByrole
+# 2. getByPlaceholder
+# 3. getByText
+# 4. getByAlt
+
+# page.getByRole()
+# page.getByPlaceholder()
+
+

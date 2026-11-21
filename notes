@@ -1,0 +1,6 @@
+Bash:
+
+Using IIFE: npx tsx src/topic4/TC01-storageState.spec.ts
+
+
+Using playwright script with test function: npx playwright test src/topic4/TC01-storageState.spec.ts
